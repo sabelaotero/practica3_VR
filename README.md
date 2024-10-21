@@ -1,8 +1,27 @@
-Este juego se desarrolla en un castillo y el jugador deberá pasar por dos salas para conseguir el objetivo.  
-En un primer momento, tendrá que buscar y recoger todas las monedas y lingotes que hay esparcidos por la sala y depositarlos en la bañera. 
-Una vez conseguido este objetivo, se iluminará una luz indicando que la puerta que separa ambas salas puede ser seleccionada, y su selección provocará su apertura.  
-Llegados a este punto el jugador podrá avanzar y llegar a la siguiente sala donde se encontrará con unas estatuas de leones en movimiento.
-Si estas figuras impactan contra el jugador, este perderá una vida, teniendo un total de 3. El objetivo aquí es llegar al panel azul situado al fondo. 
-Cuando el jugador consiga situarse sobre dicho panel, aparecerá una plataforma elevada a la que el jugador se podrá teletransportar facilmente con tal solo seleccionarla.  
-¡Si ha conseguido llegar a la plataforma elevada, habrá logrado superar el juego!  
-El juego cuenta con un panel inicial, con una breve explicación y durante la partida se podrá observar el progreso de las monedas/lingotes recogidos y de las vidas restantes.
+# El Castillo Mágico
+
+**El Castillo Mágico** es un emocionante juego de aventuras que tiene lugar dentro de un misterioso castillo. El jugador debe superar dos salas para alcanzar el objetivo final. ¡Aquí te explicamos los detalles!
+
+## Objetivos del Juego
+
+1. **Primera Sala:**
+   - El jugador debe **buscar y recoger todas las monedas y lingotes** dispersos por la sala.
+   - Una vez que todos los objetos han sido **depositados en la bañera**, se **iluminará una luz**, indicando que la puerta a la siguiente sala puede abrirse.
+   - El jugador podrá **seleccionar la puerta**, lo que provocará su apertura para avanzar a la siguiente sala.
+
+2. **Segunda Sala:**
+   - En esta sala, el jugador se enfrentará a **estatuas de leones en movimiento**.
+   - Si una estatua impacta contra el jugador, **perderá una vida**. El jugador empieza con **3 vidas**.
+   - El objetivo es **alcanzar el panel azul** al fondo de la sala. Una vez allí, aparecerá una **plataforma elevada**.
+   - El jugador podrá **teletransportarse** fácilmente a la plataforma seleccionándola.
+
+## ¡Victoria!
+
+Si el jugador logra llegar a la plataforma elevada, habrá **superado el juego**.
+
+## Características Adicionales
+
+- Al inicio del juego, se presenta un **panel con una breve explicación**.
+- Durante la partida, el jugador podrá ver su **progreso**, incluyendo:
+  - La cantidad de **monedas y lingotes recogidos**.
+  - El **número de vidas restantes**.

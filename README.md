@@ -1,6 +1,6 @@
-# El Castillo Mágico
+# El castillo mágico
 
-**El Castillo Mágico** es un emocionante juego de aventuras que tiene lugar dentro de un misterioso castillo. El jugador debe superar dos salas para alcanzar el objetivo final. ¡Aquí te explicamos los detalles!
+**El castillo mágico** es un emocionante juego de aventuras que tiene lugar dentro de un misterioso castillo. El jugador debe superar dos salas para alcanzar el objetivo final. ¡Aquí te explicamos los detalles!
 
 ## Objetivos del Juego
 
